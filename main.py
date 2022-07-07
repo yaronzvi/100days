@@ -346,5 +346,8 @@ while True:
         print('file does not exist.')        
     time.sleep(10)
 
+# git remote add origin https://github.com/yaronzvi/100days.git
+# git branch -M master
+# git push -u origin main
 
     
